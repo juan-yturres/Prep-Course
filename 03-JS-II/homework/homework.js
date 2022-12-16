@@ -209,11 +209,11 @@ function doWhile(numero) {
   //Implementar una función tal que vaya aumentando el valor recibido en 5 hasta un límite de 8 veces
   //Retornar el valor final.
   //Usar el bucle do ... while.
-  var musica = 0;
+  var rock = 0;
 do{
 numero += 5;
-musica++
-} while(musica < 8);
+rock++
+} while(rock < 8);
 return numero;
 }
 
